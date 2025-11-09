@@ -40,19 +40,29 @@ https://via.placeholder.com/800x400/1e3a8a/ffffff?text=FNJ+Bank+Dashboard
 🛡️ Admin Management System
 
 · Comprehensive Admin Dashboard with analytics
+
 · User Account Management
+
 · Loan Approval System with notifications
+
 · Transaction Monitoring
+
 · Deposit/Withdrawal Processing
+
 · Real-time System Analytics
+
 · Audit Logging for all admin actions
 
 🤖 AI-Powered Security
 
 · Machine Learning Fraud Detection
+
 · Real-time Transaction Monitoring
+
 · Anomaly Detection Algorithms
+
 · Risk Scoring System
+
 · Automated Suspicious Activity Flagging
 
 🛠 Technology Stack
@@ -60,30 +70,47 @@ https://via.placeholder.com/800x400/1e3a8a/ffffff?text=FNJ+Bank+Dashboard
 Frontend
 
 · React 18 with Functional Components & Hooks
+
 · React Router v6 for navigation
+
 · Axios for API communication
+
 · Context API for state management
+
 · CSS3 with modern responsive design
+
 · Chart.js for data visualization
+
 · React Toastify for notifications
 
 Backend
 
 · Node.js with Express.js framework
+
 · PostgreSQL database with complex relationships
+
 · JWT for authentication
+
 · bcrypt for password hashing
+
 · Multer for file uploads
+
 · Nodemailer for email services
+
 · CORS enabled for cross-origin requests
 
 Security & AI
 
 · Custom ML Model for fraud detection
+
 · Data Encryption at rest and in transit
+
 · Input Validation and sanitization
+
 · Rate Limiting on sensitive endpoints
+
 · SQL Injection Prevention
+
 · XSS Protection
 
 🏗 System Architecture
@@ -103,18 +130,27 @@ Frontend (React) ↔ API Gateway (Express.js) ↔ Business Logic Layer ↔ Data 
 Core Tables
 
 · Users (15+ fields including KYC information)
+
 · Accounts (with balance tracking)
+
 · Transactions (comprehensive transaction logging)
+
 · Loans (application to disbursement lifecycle)
+
 · Admins (with role-based permissions)
+
 · Notifications (real-time user alerts)
+
 · Audit Logs (security compliance)
 
 Advanced Features
 
 · Transaction rollback capabilities
+
 · Referential integrity with cascading updates
+
 · Indexed queries for performance
+
 · Stored procedures for complex operations
 
 🎨 UI/UX Features
@@ -122,17 +158,25 @@ Advanced Features
 Design System
 
 · Dark Blue Corporate Theme matching banking standards
+
 · Responsive Design for all device sizes
+
 · Accessibility compliant (WCAG 2.1)
+
 · Loading States and error handling
+
 · Intuitive Navigation with breadcrumbs
 
 User Experience
 
 · Real-time Form Validation
+
 · Progressive Disclosure of complex features
+
 · Search & Filter capabilities across modules
+
 · Export Functionality for statements
+
 · Multi-language Support ready architecture
 
 🔧 Real-World Implementations
@@ -212,9 +256,13 @@ Deployment Architecture
 Model Features
 
 · Real-time Transaction Analysis
+
 · Behavioral Pattern Recognition
+
 · Anomaly Detection in spending patterns
+
 · Risk Score Calculation
+
 · Automated Alert System
 
 Performance Metrics
