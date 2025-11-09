@@ -224,8 +224,11 @@ Note: Detailed setup instructions are available in the private documentation. Th
 Prerequisites
 
 · Node.js 18+
+
 · PostgreSQL 14+
+
 · React 18+
+
 · Python 3.8+ (for AI components)
 
 Environment Configuration
@@ -247,8 +250,11 @@ REACT_APP_API_URL=http://localhost:5001
 Deployment Architecture
 
 · Frontend: Vercel (React SPA)
+
 · Backend: Render/Railway (Node.js API)
+
 · Database: Railway PostgreSQL
+
 · AI Services: Separate microservice architecture
 
 📈 AI Fraud Detection System
@@ -268,15 +274,21 @@ Model Features
 Performance Metrics
 
 · Accuracy: 94.2% on test data
+
 · Precision: 92.8% for fraud detection
+
 · Recall: 89.5% for identifying fraudulent transactions
+
 · ROC-AUC: 0.96
 
 Visualization
 
 · Loss vs. Epoch curves for model training
+
 · Confusion Matrix for performance analysis
+
 · ROC Curves for threshold optimization
+
 · Precision-Recall curves for class imbalance handling
 
 🎥 Demo & Screenshots
@@ -294,9 +306,13 @@ Key Screenshots
 
 
 1. Admin Dashboard - Comprehensive system overview
+
 2. User Banking Interface - Clean, intuitive design
+
 3. Loan Management - End-to-end workflow
+
 4. Fraud Detection Analytics - AI model performance
+
 5. Mobile Responsive Views - Cross-device compatibility
 
 🌟 Real-World Problem Solving
@@ -304,9 +320,13 @@ Key Screenshots
 Challenges Addressed
 
 1. Secure Multi-user Banking System with proper isolation
+
 2. Real-time Transaction Processing with consistency
+
 3. Scalable Notification System for user updates
+
 4. Comprehensive Admin Controls with audit trails
+
 5. AI Integration into traditional banking workflows
 
 Technical Achievements
@@ -322,17 +342,25 @@ Technical Achievements
 Implemented but Planned Feature Improvements
 
 · Biometric Authentication integration
+
 · Blockchain-based transaction verification
+
 · Advanced Chatbot for customer support
+
 · Predictive Analytics for financial planning
+
 · Open Banking API for third-party integrations
 
 Scalability Roadmap
 
 · Microservices Architecture migration
+
 · Redis Caching for performance optimization
+
 · Docker Containerization for deployment
+
 · Kubernetes Orchestration for scaling
+
 · Multi-region Database replication
 
 👥 Team & Contribution
