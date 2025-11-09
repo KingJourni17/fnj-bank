@@ -13,11 +13,17 @@ https://via.placeholder.com/800x400/1e3a8a/ffffff?text=FNJ+Bank+Dashboard
 🔐 Authentication & Security
 
 · Dual-Layer Authentication System (User + Admin)
+
 . Standalone Firewall with strict policies
+
 · JWT-based secure token management
+
 · Role-based access control (RBAC)
+
 · PIN verification for sensitive operations
+
 · Password reset with OTP verification
+
 · Session management with automatic timeout
 
 👤 User Banking Features
@@ -134,25 +140,37 @@ User Experience
 Financial Operations
 
 ✅ Money Transfer System with balance validation
+
 ✅ Interest Calculation for loans
+
 ✅ Currency Conversion with live rates
+
 ✅ Transaction Fee structure implementation
+
 ✅ Account Statement generation
 
 Banking Compliance
 
 ✅ KYC (Know Your Customer) data collection
+
 ✅ Transaction Limits and validations
+
 ✅ Audit Trail for all financial operations
+
 ✅ Admin Oversight on critical operations
+
 ✅ Data Privacy protection measures
 
 Security Measures
 
 ✅ PIN-based Authorization for admin operations
+
 ✅ Session Management with automatic logout
+
 ✅ Input Sanitization against injection attacks
+
 ✅ File Upload Security with type validation
+
 ✅ API Rate Limiting to prevent abuse
 
 🚀 Installation & Setup
