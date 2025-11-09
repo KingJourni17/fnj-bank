@@ -29,12 +29,19 @@ https://via.placeholder.com/800x400/1e3a8a/ffffff?text=FNJ+Bank+Dashboard
 👤 User Banking Features
 
 · Personal Dashboard with account overview
+
 · Money Transfers between accounts
+
 · Mobile Money Integration (MTN, Orange)
+
 · Loan Application & Management
+
 · Transaction History with advanced filtering
+
 · Profile Management with secure file uploads
+
 · Real-time Balance Updates
+
 · Multi-currency Support (FCFA, USD, EUR)
 
 🛡️ Admin Management System
